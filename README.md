@@ -1,6 +1,6 @@
 # TaskBoard — Task & Chat Web App
 
-Fullstack app using React (Vite) + Tailwind for UI, Node/Express + MongoDB for backend, JWT auth, and optional Socket.IO for real-time chat.
+Fullstack app using React (Vite) + Tailwind for UI, Node/Express + MongoDB for backend, JWT auth, and Socket.IO for real-time chat.
 
 ## Quick start
 
@@ -20,4 +20,4 @@ Fullstack app using React (Vite) + Tailwind for UI, Node/Express + MongoDB for b
 Open the frontend dev URL (usually http://localhost:5173). The backend server runs on port 5000 by default.
 
 ## Notes
-- The chat uses simple polling by default. Socket.IO optional code is included in backend & frontend (commented). Activate it if you prefer real-time.
+- The chat uses simple polling by default.
